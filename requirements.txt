@@ -1,0 +1,5 @@
+# AWSCli tools does not support Pypy anymore
+# Use aws approach to install tools using bundle 
+pyhcl==0.3.13
+ansible==2.10.7
+boto3==1.17.59
